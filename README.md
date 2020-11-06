@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GinShio&show_icons=true&theme=synthwave&count_private=true)
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinShio&layout=compact&hide=html,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GinShio)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Learning
+
+<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" />
+<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" title="Haskell" />
+
+
+
+### Like
+
+<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" title="Emacs" />
