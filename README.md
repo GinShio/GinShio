@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GinShio&show_icons=true&theme=synthwave&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinShio&layout=compact&hide=html,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinShio&layout=compact&hide=html,javascript,css)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GinShio)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GinShio)
+
+
+
+### Public Key
+
+[OpenPGP](https://github.com/GinShio/GinShio/blob/master/pgp_public_key)
+[S/MIME (iris@ginshio.org)](https://github.com/GinShio/GinShio/blob/master/iris_smime_public_key)
+[S/MIME (ginshio78@gmail.com)](https://github.com/GinShio/GinShio/blob/master/gmail_smime_public_key)
 
 
 
