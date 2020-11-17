@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 
 ### Public Key
 
-[OpenPGP](https://github.com/GinShio/GinShio/blob/master/pgp_public_key)
-
-[S/MIME (iris@ginshio.org)](https://github.com/GinShio/GinShio/blob/master/iris_smime_public_key)
-
-[S/MIME (ginshio78@gmail.com)](https://github.com/GinShio/GinShio/blob/master/gmail_smime_public_key)
+  - [OpenPGP](https://github.com/GinShio/GinShio/blob/master/pgp_public_key)
+  - [S/MIME (iris@ginshio.org)](https://github.com/GinShio/GinShio/blob/master/iris_smime_public_key)
+  - [S/MIME (ginshio78@gmail.com)](https://github.com/GinShio/GinShio/blob/master/gmail_smime_public_key)
 
 
 
