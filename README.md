@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Learning
 
 <img height="96" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" />
-<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Greek_lc_lamda_thin.svg" title="Functional Programming" />
+<img height="96" src="https://elixir-lang.org/images/logo/logo.png" title="Elixir" />
 
 
 
