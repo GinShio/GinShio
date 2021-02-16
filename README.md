@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Learning
 
 <img height="96" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" />
-<img height="96" src="https://commons.wikimedia.org/wiki/File:Official_Elixir_logo.png" title="Elixir" />
+<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" title="Elixir" />
 
 
 
