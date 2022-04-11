@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ### Public Key
 
   - [OpenPGP](pgp_public_key)
-  - [S/MIME (iris@ginshio.org)](iris_smime_public_key)
   - [S/MIME (ginshio78@gmail.com)](gmail_smime_public_key)
 
 
@@ -38,6 +37,12 @@ Here are some ideas to get you started:
 
 
 
-### Like
+### Editor
 
 <img height="96" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" title="Emacs" />
+
+
+
+### OperatingSystem
+
+<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/7/72/OpenSUSE_Leap_green_logo.svg" title="openSUSE Leap" />
