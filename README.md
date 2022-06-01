@@ -32,17 +32,17 @@ Here are some ideas to get you started:
 
 ### Learning
 
-<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" />
-<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" title="Elixir" />
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 
 
 ### Editor
 
-<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" title="Emacs" />
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 
 
 
 ### OperatingSystem
 
-<img height="96" src="https://upload.wikimedia.org/wikipedia/commons/7/72/OpenSUSE_Leap_green_logo.svg" title="openSUSE Leap" />
+[![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)](https://www.opensuse.org/)
