@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 #### Statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GinShio&show_icons=true&count_private=true&title_color=FFE211&text_color=FFFFFF&icon_color=FFA500&bg_color=50,66CCFF,39C5BB)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GinShio&show_icons=true&count_private=true&title_color=FFE211&text_color=FFFFFF&icon_color=FFA500&bg_color=50,66CCFF,39C5BB)
+
+![GitLab Stats](https://gitlab-readme-stats-opal.vercel.app/api?username=GinShio&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinShio&layout=compact&hide=html,javascript,css,scss)
 
